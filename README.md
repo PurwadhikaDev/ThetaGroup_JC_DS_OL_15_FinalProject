@@ -1,4 +1,5 @@
 Colab link: https://colab.research.google.com/drive/1bnzEduS-7eazuxxDaewlWDYfu_Gsgy1y?usp=sharing#scrollTo=zxYhtYoHsBWH
+
 Tableau link: https://public.tableau.com/app/profile/kenzi.lamberto/viz/FinalProjectHotelBooking/MENU
 
 Karakter Data
