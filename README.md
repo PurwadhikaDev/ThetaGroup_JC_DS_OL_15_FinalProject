@@ -1,3 +1,6 @@
+Colab link: https://colab.research.google.com/drive/1bnzEduS-7eazuxxDaewlWDYfu_Gsgy1y?usp=sharing#scrollTo=zxYhtYoHsBWH
+Tableau link: https://public.tableau.com/app/profile/kenzi.lamberto/viz/FinalProjectHotelBooking/MENU
+
 Karakter Data
 Dataset yang digunakan dalam project ini berisi informasi terkait pemesanan hotel, mencakup 40 variabel yang terdiri dari fitur numerik dan kategorikal. Dataset ini memiliki lebih dari 80.000 entri, yang mewakili pemesanan dari dua jenis hotel: City Hotel dan Resort Hotel. Beberapa variabel kunci dalam dataset mencakup:
 
@@ -29,3 +32,5 @@ Masalah utama yang ditangani dalam project ini adalah memahami faktor-faktor yan
 - Mengidentifikasi fitur utama seperti lead_time, adr, dan agent yang memengaruhi pembatalan.
 - Memberikan rekomendasi strategis untuk mengurangi tingkat pembatalan dan meningkatkan kepuasan pelanggan.
 Project ini tidak hanya memberikan solusi prediktif tetapi juga membantu dalam memahami dinamika pemesanan hotel secara mendalam, mendukung pengambilan keputusan berbasis data untuk manajemen hotel.
+
+Informasi lebih lengkap dapat dibaca dalam jupyter notebook ataupun link colab diatas.
